@@ -1,0 +1,38 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               ProjectEvolve 
+tagline:             The Listserve
+url:                 project-evolve-listserve.github.io/home
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+baseurl:             "/home"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Chris Stanley
+  url:               
+  email:             
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              
+
+#adding collections
+collections:
+  questions:
+    output: true
+  responders:
+    output: true
