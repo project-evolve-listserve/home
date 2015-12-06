@@ -15,8 +15,8 @@ comments: True
 I enjoy writing about my passions including ice hockey, but also podcasts, fishing and narrative story telling.</p> -----
 <p>Exercise (Crossfit); reading about productivity; traveling (especially internationally); kniting/sewing; watch TED talks!</p> -----
 <p>Music (listen and play), board games, video games, soccer.</p> -----
-<p>Reading everything and anything & traveling. </p> -----
-<p>I'm a runner. Mostly half marathons but the occasional marathon. I advocate for education being the most powerful change agent that we have at our disposal for long term meaning full change. </p> -----
+<p>Reading everything and anything & traveling.</p> -----
+<p>I'm a runner. Mostly half marathons but the occasional marathon. I advocate for education being the most powerful change agent that we have at our disposal for long term meaning full change.</p> -----
 <p>I like to have fun in my free time: involved in some local activity or project, or developing software, art or music.</p> -----
 <p>Learn stuff</p> -----
 <p>Play folk music in several bands (guitar, violin, stand up bass)
@@ -139,7 +139,7 @@ And obviously, catching up with the shows that I follow plus playing on my PS4 c
 <p>Dance</p> -----
 <p>Play with my kid, go out with my wife or friends, sleep</p> -----
 <p>Read, play video or bored games, and generally spend time with people (or  animals)</p> -----
-<p>Ride my horse. See friends. Eat.  Sleep. Read. Pilates. </p> -----
+<p>Ride my horse. See friends. Eat.  Sleep. Read. Pilates.</p> -----
 <p>Read.</p> -----
 <p>spend time with my daughter, hike, DIY, help others</p> -----
 <p>I write, draw, animate, and create things. I try to spend my free time being creatively productive, as in, producing creative things.</p> -----
@@ -181,3 +181,4 @@ Watch momies/TV
 Play Squash/badminton/table tennis
 Eat!</p> -----
 <p>I like to go listen to live music, hike, take photos, bird watch, find good wine and coffee.</p> -----
+<p>I don't have much free time- as a musician/composer/educator there is always more to be doing, writing, planning, etc. All "time off" comes with a side of guilt!</p> -----

@@ -36,7 +36,7 @@ Man, I miss Andrew Sullivan's Dish blog. It was damn near the only thing on the 
 <p>what can a group of people with very very loose connections achieve?</p>-----
 <p>It's a whole new level of creativity, working in such a group of kinda like-minded people, who found eachother rather serendipidously but can create a wonderful project together.</p>-----
 <p>because it might be interesting</p>-----
-<p>I like it's potential to create something cool. I also like that the project has the ability to bring similar interesting people together. Aaaand I like how the project is a mechanism for learning about design thinking. </p>-----
+<p>I like it's potential to create something cool. I also like that the project has the ability to bring similar interesting people together. Aaaand I like how the project is a mechanism for learning about design thinking.</p>-----
 <p>I like design discussions centered around improving community and connection. We'll see where this goes, but I am expecting good conversation.</p>-----
 <p>I'm currently finishing my post grad study in interaction design. We use design thinking for most of our projects and listserver is such a good and simple idea, I would love to see the kind of experience we can create together.</p>-----
 <p>I'm not sure where it could lead, but trying something new and potentially being a part of building something great sounds exciting. </p>-----
@@ -53,14 +53,14 @@ I found Listserve to be initially an exciting idea, but ultimately too open-ende
 <p>I am curious about what will come together... 
 Interested in seeing what develops and if it will be of interest to me. I decided to check it out and then I can decide if I want to participate.</p>-----
 <p>I want to see design thinking in action.</p>-----
-<p>I think people are our greatest resource. Our mind has so much potential and imagine what we could do with that potential x 200 (or more!). I think this project can help accomplish just that. </p>-----
+<p>I think people are our greatest resource. Our mind has so much potential and imagine what we could do with that potential x 200 (or more!). I think this project can help accomplish just that.</p>-----
 <p>I like to go deep into things that I have interest.</p>-----
 <p>I like the idea of taking the best of what the listserve could be and concentrating on making it better and more distilled.</p>-----
-<p>I think the Listserve has the potential to be much bigger than it is and I love design thinking challenges. </p>-----
+<p>I think the Listserve has the potential to be much bigger than it is and I love design thinking challenges.</p>-----
 <p>It blows my mind of the possibilities that could be done using the Listserve medium. I want to be a part of that. Also, I've always wanted to be a part of creating something that would benefit a large number of people. This could be it.</p>-----
 <p>It spoke to me. In the world we live in today, there's no way a united, educated, and active group of 25,000 people can't come together for something more</p>-----
 <p>The ListServe is a novel communications channel. I like novel communications channel, they yield novel information.</p>-----
-<p>It's different </p>-----
+<p>It's different</p>-----
 <p>I'd like to see what else the Listserve can do by the people who use the Listserve</p>-----
 <p>Listserve has been a great addition to my daily e-mails and I hope to be able to contribute back by improving it.</p>-----
 <p>Because people with one really good idea sometimes come up with more good ideas.</p>-----
@@ -78,7 +78,7 @@ And bettering society is certainly something that I want in on, if that's on the
 <p>I just love creative projects like this, especially ones that foster connection.</p>-----
 <p>not sure, 202 is a great number</p>-----
 <p>Because most of the opportunities I get to help make things come through work, where the desired end-state is more constrained.  This seems like a particularly intriguing possibility to help make something good and to work with people who are smarter than I am -- both of which are opportunities one shouldn't pass up.</p>-----
-<p>To try and disrupt things </p>-----
+<p>To try and disrupt things</p>-----
 <p>The potential is huge.  Even without knowing what will occur, there's lots of upside to this.  </p>-----
 <p>i thought if someone identified a problem - say this 'family in my home town is going through difficult time and needs help' - we could come up with ways to help them, donations of things or money.
 or find answers to other more broad problems in the world - just brainstorming with such a diverse group would be interesting</p>-----
@@ -91,9 +91,9 @@ or find answers to other more broad problems in the world - just brainstorming w
 <p>25k audience, my background in software dev and fascination with human behaviour.</p>-----
 <p>I've been interested in design thinking but don't know too much about it, and I want to contribute to the listserve in some way! </p>-----
 <p>Because the world is in great need of smart, concerned people working to solve a problem that doesn't involve making money for themselves</p>-----
-<p>I love community and connections between people who wouldn't know each other or have reason to connect other than this platform. </p>-----
+<p>I love community and connections between people who wouldn't know each other or have reason to connect other than this platform.</p>-----
 <p>I'd like to see the Listserve evolve to the "next level". Something more engaging and meaningful.</p>-----
-<p>An opportunity to connect with a global network of people who just want to have a voice </p>-----
+<p>An opportunity to connect with a global network of people who just want to have a voice</p>-----
 <p>I love the excitement that come from randomness. I don't think I have enough of it on the internet. I liken the experience to walking around and finding books at the library or cool things on the side of the road.
 Granted, most of the time is normal, but there are wonderful things here and there.  
 
@@ -118,7 +118,7 @@ transforming a piece of our world.  </p>-----
 
 I'm always on the lookout for a change and interesting stuff to do so when this came up, I had no option but to go for it.
 </p>-----
-<p>It is fascinating for me to see what and how people think. I love observing people. I am interested in anythign related to people. The listserve is a good idea so I am sure other ideas from the maker willl be interesting too. </p>-----
+<p>It is fascinating for me to see what and how people think. I love observing people. I am interested in anythign related to people. The listserve is a good idea so I am sure other ideas from the maker willl be interesting too.</p>-----
 <p>Again, the idea.</p>-----
 <p>Excited to see what can be created among the team of people with same and different hobbies.</p>-----
 <p>I like to experiment with media, especially media that connects people.  I also teach in the department that students who created the listserve were in when they created it.</p>-----
@@ -134,14 +134,14 @@ working with others for the same outcome</p>-----
 <p>To evolve the idea of the Listserve, which feels like a wonderful promise that could be even greater with some kind of tweaking.</p>-----
 <p>To participate in making the Listserve more connected</p>-----
 <p>Communication between people is a precious commodity in the midst of divisive days.</p>-----
-<p>I'm always interested in working with/helping interesting projects and the Listserve is one of the most interesting and original online projects that I've come across. </p>-----
+<p>I'm always interested in working with/helping interesting projects and the Listserve is one of the most interesting and original online projects that I've come across.</p>-----
 <p>Because I think there is something powerful that can be done with the right people who are creative and interested in doing something meaningful, and are ok with working with strangers and comfortable things</p>-----
 <p>A lot of what I do as a consumer researcher involves design thinking and understanding what human beings really want and how they interact with the world around them and how to make objects and experiences better integrated with these. To apply this process to something like the Listserve would be fascinating, and allow me to give back to a project or initiative that has given me a lot.</p>-----
 <p>It has potential to turn into something interesting and I'd like to embark on a hobby project, meet new people, etc. </p>-----
 <p>I've always been an amateur sociologist.  For a while I've been chipping away on a personal photo project, 100 strangers. Photogs around the world approach 100 different strangers and get consent to take their photo and also get a soundbite from them. Here's minehttps://www.flickr.com/photos/59949757@N06/albums/72157629139123186
 
 I think there is a way to incorporate some components of 100 strangers into the listerve.   </p>-----
-<p>Not sure yet if I am. I love connecting with people and was intrigued by your email. If it continues to intrigue me I'll have a better answer for you. I also like being involved in interesting things that most people aren't involved in. </p>-----
+<p>Not sure yet if I am. I love connecting with people and was intrigued by your email. If it continues to intrigue me I'll have a better answer for you. I also like being involved in interesting things that most people aren't involved in.</p>-----
 <p>I'm curious where it will go, and it's interesting to me to see where it might lead.  I've mostly been a passive viewer of the listserve, even when people ask for connection I never give it, so here's me, throwing myself out in the world to see what it brings back.</p>-----
 <p>I find the idea facinating. I always like to do new things and to get in on the ground floor of this project should give me an opportunity to contribute and to learn. What more can oneaskmfor?</p>-----
 <p>I think it's an opportunity to learn and create something new. It's an opportunity to propose ideas and dreams to people who might help you to realize them.</p>-----
@@ -159,3 +159,4 @@ I think there is a way to incorporate some components of 100 strangers into the 
 <p>I'd like to see a more robust relationship happen where people are communicating and working with one another to understand each other on a level deeper than the surface.</p>-----
 <p>Your email hooked me, and design thinking sounds interesting. Also I'm passionate about the Listserve and would be interested in whatever direction it takes next</p>-----
 <p>I want to help create something cool. I don't think I create enough.</p>-----
+<p>Having read every single email since day 0, I'm invested in the Listserve and want to see the number of subscribers rise! Also, when/if I ever get picked, I hope that it will have evolved into something that is more able to transmit my message. i.e. the power of links (as a musician, my strengths do not necessarily include prose).</p>-----

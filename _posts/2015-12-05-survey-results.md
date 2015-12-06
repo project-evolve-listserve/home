@@ -6,9 +6,9 @@ categories: post
 comments: True
 ---
 
-Thanks to everyone that filled out the survey. We had 118 responses for a 58% participation rate, that's pretty incredible. I assembled this website to make viewing and analyzing the data easy for everyone.
+Thanks to everyone that filled out the survey. We had 119 responses for a 59% participation rate, that's pretty incredible. I assembled this website to make viewing and analyzing the data easy for everyone.
 
-I’ve added Disqus comments to the bottom of every webpage so we can discuss our analysis on the survey questions. This is an open forum with no established rules, yet, so please remember to be respectful. I imagine most commenting will occur on the Question pages, and on occasion on an individual Responders page. CSV file of survey results is [here.][drafts]
+I’ve added Disqus comments to the bottom of every webpage so we can discuss our analysis of the survey questions. This is an open forum with no established rules, yet, so please remember to be respectful. I imagine most commenting will occur on the Question pages, and on occasion on an individual Responders page. CSV file of survey results is [here.][drafts]
 
 [drafts]: https://github.com/project-evolve-listserve/home/blob/master/_drafts/about_you_12_55.csv
 
@@ -18,7 +18,7 @@ I’ve added Disqus comments to the bottom of every webpage so we can discuss ou
 
 ### Design Thinking
 
-It may not feel like it, but we’re in the first stage of design thinking - we’re learning about ourselves. Some trends emerge in the survey - more diversity, less frequent emails, less emails giving life advice. We will eventually brainstorm ideas that meet those needs, but first we *really* need to understand what we want. 
+It may not feel like it, but we’re in the first stage of design thinking - we’re learning about ourselves. Some trends emerge in the survey - more diversity, less frequent emails, fewer emails giving life advice. We will eventually brainstorm ideas that meet those needs, but first we *really* need to understand what we want. 
 
 If you’re eager to learn more about design thinking, here are a few good resources to get you started: 
 [Design of Everyday Things Ch. 6][doedt] and [Fast Company Article on David Kelly][fastco]
@@ -35,9 +35,9 @@ If you’re eager to learn more about design thinking, here are a few good resou
 
 ### Demographics
 
-I have been in contact with Alvin Chang, one of the founders of The Listserve, and he informed me that by design The Listserve did not capture any data on the emails. This means, that we actually don't know and probably will never know how many emails get opened everyday, what the most popular emails are etc... 
+I have been in contact with Alvin Chang, one of the founders of The Listserve, and he informed me that, by design, The Listserve did not capture any data on the emails. This means that we actually don't know and probably will never know how many emails get opened everyday, what the most popular emails are etc... 
 
-At this point, we also don't know how diverse The Listserve is, but if ProjectEvolve is at all any indicator of the diversity of the overall listserve, it's mostly 20-30 year olds living in the USA. But this doesn't mean we'll never know the diversity! If you receive *that* email and *Win* The Listserve, please run a diversity survey finding out who's reading from where! 
+At this point, we also don't know how diverse The Listserve is (in terms of subscribers), but if ProjectEvolve is at all any indicator of the diversity of the overall listserve, it's mostly 20-30 year olds living in the USA. But this doesn't mean we'll never know the diversity! *If you receive that email and Win The Listserve, please run a demographics/diversity survey finding out who's reading from where!*
 
 ### Next Steps
 
@@ -49,6 +49,10 @@ I’m planning to have teams created and a better project roadmap built in the n
 ### Age Histogram
 
 <iframe width="500" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~stanleychris2/61.embed"></iframe>
+
+### Excitement level 
+
+<iframe width="500" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~stanleychris2/97.embed"></iframe>
 
 ### Countries
 

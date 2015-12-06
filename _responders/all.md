@@ -3,6 +3,7 @@ layout: post
 title:  "Responders"
 date:   2015-12-05 20:16:36 -0800
 categories: post
+comments: True
 ---
 [Student in Saint Paul, USA - 20][0]
 
@@ -91,7 +92,7 @@ categories: post
 [retired tech writer in Asheville, USA - 55][28]
 
 [28]: /home/responders/28
-[Student.  in Chicago, USA - 19][29]
+[Student. in Chicago, USA - 19][29]
 
 [29]: /home/responders/29
 [Looking for a job in Cambridge, USA - 57][30]
@@ -100,7 +101,7 @@ categories: post
 [Global Health Consultant in Cairo, Egypt - 40][31]
 
 [31]: /home/responders/31
-[Regulatory Coordinator  in New York, USA - 22][32]
+[Regulatory Coordinator in New York, USA - 22][32]
 
 [32]: /home/responders/32
 [Advertiser in São Paulo, Brazil - 27][33]
@@ -133,7 +134,7 @@ categories: post
 [Grad student in Austin, USA - 27][42]
 
 [42]: /home/responders/42
-[poet  in Chicago, USA - nan][43]
+[poet in Chicago, USA - nan][43]
 
 [43]: /home/responders/43
 [consultant in Macon, USA - 50][44]
@@ -166,7 +167,7 @@ categories: post
 [Editor/Manager of Digital Experiences in Brooklyn, USA - 48][53]
 
 [53]: /home/responders/53
-[Care assistant  in Newark, USA - 41][54]
+[Care assistant in Newark, USA - 41][54]
 
 [54]: /home/responders/54
 [Business & marketing consulting in Lyndonville, USA - 59][55]
@@ -202,13 +203,13 @@ categories: post
 [retired rural mail carrier, full-time Grandmother in McMinnville, USA - 63][65]
 
 [65]: /home/responders/65
-[education  in Jackson, USA - 23][66]
+[education in Jackson, USA - 23][66]
 
 [66]: /home/responders/66
 [Researcher in Melbourne, Australia - 36][67]
 
 [67]: /home/responders/67
-[Advertising Account Executive  in Chicago, USA - 23][68]
+[Advertising Account Executive in Chicago, USA - 23][68]
 
 [68]: /home/responders/68
 [Artist in Los Angeles, USA - 37][69]
@@ -235,7 +236,7 @@ categories: post
 [Engineer in Athens, USA - 35][76]
 
 [76]: /home/responders/76
-[Entreprener  in Brentwood, USA - 66][77]
+[Entreprener in Brentwood, USA - 66][77]
 
 [77]: /home/responders/77
 [Communication Professional in Zeist, The Netherlands - 54][78]
@@ -262,7 +263,7 @@ categories: post
 [Accountant in New York, USA - 22][85]
 
 [85]: /home/responders/85
-[Veterinary surgeon  in Lincoln, UK - 28][86]
+[Veterinary surgeon in Lincoln, UK - 28][86]
 
 [86]: /home/responders/86
 [editor in Brooklyn, USA - 45][87]
@@ -301,7 +302,7 @@ categories: post
 [UX Designer in Amsterdam, The Netherlands - 42][98]
 
 [98]: /home/responders/98
-[Videographer  in New York, USA - 32][99]
+[Videographer in New York, USA - 32][99]
 
 [99]: /home/responders/99
 [Trade Marketing Executive in London, UK - 23][100]
@@ -337,7 +338,7 @@ categories: post
 [Strategy manager in San Francisco, USA - 28][110]
 
 [110]: /home/responders/110
-[Just a random person in a customer service cube farm  in Chilton, USA - 47][111]
+[Just a random person in a customer service cube farm in Chilton, USA - 47][111]
 
 [111]: /home/responders/111
 [Veterinary medicine/public health student in Urbana, USA - 30][112]
@@ -358,3 +359,6 @@ categories: post
 [Nonprofit Grants Accountant in San Francisco, USA - 28][117]
 
 [117]: /home/responders/117
+[Music teacher in Worcester, MA, US - 27][118]
+
+[118]: /home/responders/118
