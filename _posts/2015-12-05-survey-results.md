@@ -10,7 +10,7 @@ Thanks to everyone that filled out the survey. We had 118 responses for a 58% pa
 
 I’ve added Disqus comments to the bottom of every webpage so we can discuss our analysis on the survey questions. This is an open forum with no established rules, yet, so please remember to be respectful. I imagine most commenting will occur on the Question pages, and on occasion on an individual Responders page. CSV file of survey results is [here.][drafts]
 
-[drafts]: /drafts/about_you_12_55.csv
+[drafts]: https://github.com/project-evolve-listserve/home/blob/master/_drafts/about_you_12_55.csv
 
 #### [Question][questions]
 
