@@ -12,7 +12,7 @@ I’ve added Disqus comments to the bottom of every webpage so we can discuss ou
 
 [drafts]: https://github.com/project-evolve-listserve/home/blob/master/_drafts/about_you_12_55.csv
 
-#### [Question][questions]
+#### [Questions][questions]
 
 #### [Responders][responders]
 
