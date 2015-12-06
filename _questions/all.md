@@ -22,5 +22,5 @@ comments: True
 [know]: /home/questions/know
 [like]: /home/questions/like
 [dislike]: /home/questions/dislike
-[anyq]: /home/uestions/anyq
+[anyq]: /home/questions/anyq
 [interest]: /home/questions/interest
