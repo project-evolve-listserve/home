@@ -32,7 +32,7 @@ OK you may have caught me on a bad day.</p>-----
 
 I also feel that most of the emails are preachy and say the same thing, more or less, which is seize the day. </p>-----
 <p>Sometime they're a bit long, and I don't have time to read them everyday, so my backlog is a little overwhelming.</p>-----
-<p>Not sure.</p>-----
+<p>Not sure. </p>-----
 <p>not much - it's easy enough to not read!</p>-----
 <p>That I didn't win yet!</p>-----
 <p>self-serving posts</p>-----
@@ -52,12 +52,12 @@ I'm a believer in the value of constraint. Twitter works well because of the for
 <p>That I have not been chosen! :)
 That sometimes people get melodramatic or list a bunch of musicians and books without explaining why they are important to them. </p>-----
 <p>All the trite advice on how to live your life</p>-----
-<p>I think the Listserve isn't living up to its full potential..which leads me to the next question.</p>-----
+<p>I think the Listserve isn't living up to its full potential..which leads me to the next question. </p>-----
 <p>Shout out to someone and pretensious stories or advices. In Brazil they say "if advice was good it wouldn't be free"</p>-----
 <p>The emails that end up being a college "about me" essay, I don't enjoy.
 
 </p>-----
-<p>When I take the time to write someone an email that they asked for and they don't respond.</p>-----
+<p>When I take the time to write someone an email that they asked for and they don't respond. </p>-----
 <p>I get emails everyday. It could feel a little bit spammy but I could live with that.</p>-----
 <p>Some people get a bit too preachy, but I don't really not like that aspect bc I take it all in regardless</p>-----
 <p>There are a lot of shitheads in the world.
@@ -78,7 +78,7 @@ It's pretty great. </p>-----
 <p>I have replied to a few people who ask for replies and not heard back. That always bums me out a bit I suppose. Otherwise I think the format is good.</p>-----
 <p>not enough time to read everythign</p>-----
 <p>Sometimes long periods go by when I see nothing but posts that don't interest me.  Sometimes I would like to invite a poster to do a follow-up.  I would like there to be an easy way (though maybe also lo-fi) to find out if other people were interested in the stuff I was interested in, and maybe connect with them.  I feel a bit like an island, receiving messages in bottles from other islands.</p>-----
-<p>Life advice from twenty somethings</p>-----
+<p>Life advice from twenty somethings </p>-----
 <p>A majority of Listservians seem to be following the same model.  C'mon kids, step up, step out and SAY SOMETHING.  
 
 I think just one person has suggested a gathering of others in the group...in Brooklyn a year or so ago.  How come this doesn't happen more often?  (And I wonder how that gathering went??)
@@ -89,15 +89,15 @@ I think just one person has suggested a gathering of others in the group...in Br
 <p>Its a lot. I have a folder of a years worth of emails still dying to be read. I read them, and I print them immediately and have thrown them all into a binder. Days go by and it slips my mind that I was supposed to read and print another email, and now I just can't catch up.</p>-----
 <p>Emails have turned into a repetitive this is my story or advice column.  Early on (was a member before it started) the stories varied...but somehow it has evolved into this rut where everyone posts similar themes.</p>-----
 <p>Life advice on how to be happy</p>-----
-<p>The email topic are too repetitive and I don't feel like being part of a community..</p>-----
+<p>The email topic are too repetitive and I don't feel like being part of a community.. </p>-----
 <p>Inane prattle and religion.</p>-----
 <p>The often boring relative perspective advice.</p>-----
 <p>I kind of wish the e-mails weren't in plaintext, and I wish users could upload just one photo to their post if they wanted to. </p>-----
 <p>The fleeting sense of connection is largely illusory</p>-----
-<p>When people write too much and give advice.</p>-----
+<p>When people write too much and give advice. </p>-----
 <p>Life advice and rambling, unstructured emails.</p>-----
 <p>Recently, the content or emails haven't been very compelling - causing me and others to lose interest. Each post should be a gem. Each should inspire or make you think, rather than use for sale or self promotion. Similar to HONY, each story should be unique and captivating. </p>-----
-<p>Advice. Mostly because there is so much and I don't know what to do with it.</p>-----
+<p>Advice. Mostly because there is so much and I don't know what to do with it. </p>-----
 <p>that i dont know the detais of how the people are selected</p>-----
 <p>I dont</p>-----
 <p>Lists of recommendations without context or justification. Thanks, internet stranger!
@@ -113,7 +113,7 @@ The single flow of information. Where's the update? How do I know what other peo
 
 A little secret
 (sometimes I get bored and irritated with the stories that people share. it usually is because of my mood but that's alright I guess, right?)</p>-----
-<p>It is not harming me in any way so there is nothing I do not like about the Listserve.</p>-----
+<p>It is not harming me in any way so there is nothing I do not like about the Listserve. </p>-----
 <p>The execution.  90% of the emails on https://thelistservearchive.com/ are tedious uninspired drivel.  It's a shame people don't have anything to say on such an occasion.  There needs to be some kind of editorial panel, perhaps contributors are chosen, but then vetted by 100 randomly selected members of the community to upvote on to distribution to the whole list.
 
 Bottom line the listserv is just not sufficiently exclusive.  I want to hear about people's ideas and opportunities to collaborate.  I absolutely do not want to be told every goddamned day to slow down and smell the roses, etc. etc.
@@ -137,7 +137,7 @@ very USA-heavy, would like more perspective from other countries
 <p>Two things: (1) College students who don't know what to do with their life and use the listserve as a venting tool. (2) Self-righteous types who think they've got everything figured out</p>-----
 <p>The diversity of expression it amplifies.</p>-----
 <p>I don't like when individuals have obviously put little to no thought into what they'd like to write about, and as a result share a Listserve with little to no narrative or original thought. When this happens several days in a row it can be frustrating, however I recognize this is part of an open community that doesn't require an invite.</p>-----
-<p>Some people just don't get it. Quality is up and down.</p>-----
+<p>Some people just don't get it. Quality is up and down. </p>-----
 <p>The flatness of the form, the uni-dimensionality of the way the writing is experienced, the need for most people to acknowledge their surprise at winning their listserve, wondering when I will be chosen and whether I will have anything worthy to say.</p>-----
 <p>References to religious convictions</p>-----
 <p>Too many sob stories, or when it's too long </p>-----
@@ -145,7 +145,7 @@ very USA-heavy, would like more perspective from other countries
 <p>I never get picked!  There really isn't anything I don't like, per se, some posts are more interesting than others but I think that goes with the territory.</p>-----
 <p>Nothing.. By signing up you are willing accept why someone acts to send. One reason it is so interesting.</p>-----
 <p>nan</p>-----
-<p>The only thing I don't like is when people use the Listserve to promote their business. It feels a bit disingenuous.</p>-----
+<p>The only thing I don't like is when people use the Listserve to promote their business. It feels a bit disingenuous. </p>-----
 <p>Moralizing dumbass remarks that try to give blanket advice and take too many words to do it.</p>-----
 <p>It's an interesting concept but I wonder about it's overall utility, especially in the port medium and Quora world.</p>-----
 <p>lengthy emails where you loose the storyline...
@@ -153,7 +153,7 @@ But seriously, cant think of something now.</p>-----
 <p>There is a lot of content that I really just don't care about. I typically decide within a few lines if I'm going to keep reading or not.</p>-----
 <p>nan</p>-----
 <p>Too much life advice</p>-----
-<p>Trying sooooooo hard to be profound. Snore.</p>-----
+<p>Trying sooooooo hard to be profound. Snore. </p>-----
 <p>When it doesn't seem like the person I'm listening to would listen to me</p>-----
 <p>That it's mostly popular in US. I wonder if we could popularize it to all the corners of the world. I wonder if there are other platforms similar to Listserve.</p>-----
 <p>Seems like lots of people lately have the misconception that they have to be profound, or that they need to include commentary about the Listserve as a concept. </p>-----
@@ -163,3 +163,8 @@ But seriously, cant think of something now.</p>-----
 Maybe this makes me a bad person, but I am always more interested in the way people think, how they feel, or hearing their stories.</p>-----
 <p>I don't like when people start with, "I don't know what to write" or "I'm only 20 something and don't have much to share." I think everyone does and if they could just share anything about themselves it would be interesting.</p>-----
 <p>The incessant pleading, the entries that seem like not much time was put into it. I think links should be allowed, depending on what they are- maybe a limit on how many? I just feel like there is something missing... probably more along the lines of community engagement.</p>-----
+<p>To get a boring email</p>-----
+<p>Arrogance, small-mindedness, immaturity. Inanity. </p>-----
+<p>TONS of trite, saccharine emails that add absolutely nothing to my life. I'm seriously on the verge of unsubscribing. I'd rather get a really specific, vivid, personal email that's totally irrelevant to my interests than get a "God is great and your life matters" email ANY day.</p>-----
+<p>Nothing really, it serves its purpose. </p>-----
+<p>I don't like that most of the emails are so personal. </p>-----

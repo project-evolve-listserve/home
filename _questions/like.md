@@ -8,7 +8,7 @@ comments: True
 
 -----
 <p>I like the potential Listserve has to spread ideas and connect people.</p>-----
-<p>I love the potential. One day I might open my email and find the perfect opportunity. Or an idea I've never thought of. A book or movie suggestion. A project I should be involved with. Someone I should connect to. The potential is exciting.</p>-----
+<p>I love the potential. One day I might open my email and find the perfect opportunity. Or an idea I've never thought of. A book or movie suggestion. A project I should be involved with. Someone I should connect to. The potential is exciting. </p>-----
 <p>People giving a part of their lives a shape that can be shared with others.</p>-----
 <p>I like that I get a glimpse into people lives, like a snapshot of who they are/how they are feeling at that exact moment. What they think is the most important to tell the world about themselves. </p>-----
 <p>I like unique offerings, such as when someone uses the Listserve in an unconventional format. There was a submission early this year where the writer penned a note from Satan. It was funny, and unique.
@@ -46,16 +46,16 @@ I like ideas, the ones that make you think... like 'hello prompt' I guess. </p>-
 <p>The rare email that doesn't fit the mold</p>-----
 <p>I like how non-commital it is. If i get an email that's too long or doesn't catch me with the subject or first sentence, I can skip it. I love hearing other peoples' stories.</p>-----
 <p>serendipity</p>-----
-<p>Dynamic opinions</p>-----
+<p>Dynamic opinions </p>-----
 <p>I enjoy reading all the unique stories and seeing what people share to such a large forum. I have never been chosen, but I read it almost everyday. On a very rare occasion I have responded to a writer.</p>-----
 <p>Hearing from people I would normally never hear from and getting music recommendations.</p>-----
-<p>I like that the Listserve gives you the ability to connect with someone and not expect anything in return. It makes you think about something that might think not normally come across; its human empathy its in purest form.</p>-----
+<p>I like that the Listserve gives you the ability to connect with someone and not expect anything in return. It makes you think about something that might think not normally come across; its human empathy its in purest form. </p>-----
 <p>Nice stories and insightful events, new perspectives about something and listserves that gives you something to think about.</p>-----
 <p>Because I love to read, I love it when the list serve is a well-written story, snippet, anecdote.
 
 I also like it when an email is able to teach me about something I didn't know/ know much about.</p>-----
-<p>I love hearing peoples stories and how colorful they are.</p>-----
-<p>I've been a member of the Listserve for a few years now. What I like about it is that every now and then I read something that I get extremely inspired with. Some stuff I can relate with. Other stuff I learn new things.</p>-----
+<p>I love hearing peoples stories and how colorful they are. </p>-----
+<p>I've been a member of the Listserve for a few years now. What I like about it is that every now and then I read something that I get extremely inspired with. Some stuff I can relate with. Other stuff I learn new things. </p>-----
 <p>The fact that it reminds me of the "inexhaustible variety of life" </p>-----
 <p>A sampling of a stranger, unsponsored.</p>-----
 <p>The randomness</p>-----
@@ -92,14 +92,14 @@ i like to see what motivates people</p>-----
 
 I love the connections people can make through the listserve - friendships are formed, people meet up with one another in person, or people work collectively in some useful way (like this). I also like being able to tell people the stories and things I've learned from the listserve. </p>-----
 <p>I am, I observe from the emails I get, older than the average Listserver. Many emails elicit a strong mothering response from me, many make me hopeful that the world is populated with so many thoughtful, smart, decent human beings, all doing their best to make a good life for themselves and others by being the best person they can be, in spite of life's many challenges.</p>-----
-<p>I like when people share statistics about the people who are signed up. I like stories.</p>-----
+<p>I like when people share statistics about the people who are signed up. I like stories. </p>-----
 <p>The occasional gem.</p>-----
 <p>I love the idea behind it - random people getting a chance to share wisdom, a thought or a question with a global audience. People working and talking behind cultural or societal barriers. </p>-----
 <p>I like to read mostly short posts written by people who I wouldn't read otherwise. People who I don't follow elsewhere and that most likely don't post things on a regular basis. So yeah, stuff by random amateurs. </p>-----
 <p>That it gives voice to random people all over the word</p>-----
 <p>I love reading and learning about other people's lives. It is a pretty interesting platform for people to tell you anything even the most intimate things, and you are just a stranger willing to read.</p>-----
 <p>I like to read about people's stories and passions, especially when they're more varied (not your typical American college student who doesn't know what he or she is doing with his/her life).</p>-----
-<p>I like the ability to receive e-mails from people all over the world.  My current business startup revolves around cross-cultural training and how to understand an international audience.  The core of this is based on teaching people that different cultures have different ways of thinking.</p>-----
+<p>I like the ability to receive e-mails from people all over the world.  My current business startup revolves around cross-cultural training and how to understand an international audience.  The core of this is based on teaching people that different cultures have different ways of thinking.  </p>-----
 <p>I like having the opportunity to learn the perspective of people that are really different from me (seeing the similarities, differences). I like responses that include art and literature.</p>-----
 <p>I love how vulnerable people make themselves on the Listserve. It is far more engaging to me when someone tells a personal story in their email. I love getting a snapshot into someone's life, even if the total context from that story is missing. </p>-----
 <p>Variety, but also learning about new things</p>-----
@@ -108,12 +108,12 @@ I love the connections people can make through the listserve - friendships are f
 <p>It's potential to connect people from all walks of life across the globe, eventually resulting in a wide variety of stories that allow for a far deepening of your own opinions on things</p>-----
 <p>The fact that I get to read an insight from a random person everyday at my convenience. Also, the stories, experiences, etc, are wonderful to read.
 It gives us a platform and opportunity to connect with people who we would have never connected with.</p>-----
-<p>The surprise element. The peek into a strangers perspective.</p>-----
+<p>The surprise element. The peek into a strangers perspective. </p>-----
 <p>The idea.</p>-----
 <p>nan</p>-----
 <p>I am a fan of email, think it is an interesting medium and like that the listserve is a nice non-commercial experiment in that space.  I like the exposure to a bunch of different person's thoughts each day.</p>-----
 <p>Although some are sad and others are jokes it is a glimpse into a completely different life which any one can use to help mold and shape their own views to be a more global person.</p>-----
-<p>Variety of emails and contact from different cultures</p>-----
+<p>Variety of emails and contact from different cultures </p>-----
 <p>Variety. I like reading what people think counts as wisdom. I like reading poetry and short stories and dreams and things done long ago. I also think it's interesting when members seek advice.</p>-----
 <p>the randomness, never know what you are going to get each day
 the ability to communicate with the author
@@ -124,16 +124,16 @@ sense of connection - especially if story is similar to mine in some respect</p>
 <p>It has a chance for greatness, every day. It comes as a surprise even still; a small hit of Christmas morning. Also on a meta level it speaks to what is on the mind of a self-selected group of people.</p>-----
 <p>The connectedness of all things</p>-----
 <p>The diversity of expression it amplifies.</p>-----
-<p>I love hearing unique perspectives and opinions from such a wide range of people. There's a lot of very strong writers who share interesting and engaging thoughts.</p>-----
+<p>I love hearing unique perspectives and opinions from such a wide range of people. There's a lot of very strong writers who share interesting and engaging thoughts. </p>-----
 <p>Each day bumping into someone random, and seeing what's on in his or her head, vis a vis his the email in your inbox. </p>-----
 <p>The anonymity, the diversity of narratives and writing styles, understanding how people think and what they care about, the chance to learn something new or esoteric and be able to apply it to your life, feeling transported occasionally and in some sense, connected to the larger world and with a finger on the collective pulse of humanity.</p>-----
 <p>Varied stories the anticipation that I might find someone or something interesting</p>-----
 <p>The randomness of it; getting points of view outside of my typical social and professional circle</p>-----
 <p>Hearing stories from PEOPLE of different backgrounds, with different stories. Understanding a person that little bit more. Are most people like me? Do they go through the same struggles I do? Reading something really creative grabs me too. I love learning things through the listserve.</p>-----
 <p>It's interesting to see what pops up each day, it's so varied and sometimes quite personal.  I like that it's random and there are no rules about what you are 'supposed' to share.  </p>-----
-<p>Hearing about what makes people tick and what they decide to share. Makes you realize the diversity in the group how much more there is learn.</p>-----
+<p>Hearing about what makes people tick and what they decide to share. Makes you realize the diversity in the group how much more there is learn. </p>-----
 <p>read stories and thoughts so different from the world and imagine the illustrations for these stories</p>-----
-<p>I love hearing from people from around the globe. People are such amazing creatures.</p>-----
+<p>I love hearing from people from around the globe. People are such amazing creatures. </p>-----
 <p>It's like Omegle for the severely introverted: I get to meet someone without having to do the work or expose myself (not like that). And it's a meet that isn't governed or influenced by my own daily schedule and proclivities: I can meet someone who has literally no connection to my daily life.
 
 I have a theory that everyone is interesting when they tell you what they are passionate about. Sometimes [The Listserve] proves that.
@@ -147,8 +147,14 @@ And currently, I'm horribly trapped in my everyday life without good community. 
 <p>At first, I liked the variety of posts. One of the first ones was a recipe, then a list of words that represent ideas that don't translate. I like the ones best  that are different, not lecturing about how to live a good life. </p>-----
 <p>Each entry is a chance to learn more about the human condition.</p>-----
 <p>Insights from people. Random people! Deepness of words one rarely sees.</p>-----
-<p>I like seeing lots of people doing something they'd only ever imagined. Its like watching improv over email every day.</p>-----
+<p>I like seeing lots of people doing something they'd only ever imagined. Its like watching improv over email every day. </p>-----
 <p>It connects people from many different countries, cultures and backgrounds. </p>-----
 <p>The randomness of it, and how unexpected it is. You never know what you'll get</p>-----
 <p>I like learning other people's perspectives, things that they think about or worry about, and reading strange stories that have happened to people. </p>-----
 <p>The randomness. Been subscribed since before day 0. I've read every single email, and even responded to a few. My favorites are when there is community engagement- such as the picnic, the postcard project, and the web scavenger hunt.</p>-----
+<p>To read a inspiring email</p>-----
+<p>I never know what I'm going to get. Sometimes I'm offered insight on something brand new, sometimes introduced to someone new. It makes me feel like a member of the human race. </p>-----
+<p>Hearing diverse perspectives, useful advice, personal stories I wouldn't otherwise encounter in my little Internet confirmation-bias bubble.</p>-----
+<p>Diversity of people 
+Variety and randomness of topic/ideas/information</p>-----
+<p>I like the idea of communicating with a large group of people. </p>-----

@@ -26,7 +26,7 @@ Why do you think Listserve found a natural level of a little over 20,000 people 
 <p>What is the geographic distribution of participants?</p>-----
 <p>What does impact mean to you, and how can the listserve and its participants achieve impact without spending too much time or money.</p>-----
 <p>What do people talk about most often in their Listserves? Is there a common theme that was unexpected?</p>-----
-<p>Tell me why each person joined? And why has it stalled at around 25000?</p>-----
+<p>Tell me why each person joined? And why has it stalled at around 25000? </p>-----
 <p>which emails get the biggest response?</p>-----
 <p>How many active people (who read every email) are there on the Listserve?</p>-----
 <p>How do you feel about how it's turned out?</p>-----
@@ -49,7 +49,7 @@ BTW, you're not posting these results online, are you?</p>-----
 <p>Why cant we engage in a conversation to more people about a specific listserve?
 Thats what I want the most. Thats what I want from International Sharing Group and here.</p>-----
 <p>I'd ask what their vision of the listserve and what it could accomplish was when they started, and how what they see it as now compares.</p>-----
-<p>How do you really pick the recipients?!</p>-----
+<p>How do you really pick the recipients?! </p>-----
 <p>Are you open to curate the best Listserve emails (most inspiring, funniest, most informative) and have these printed as a book?</p>-----
 <p>What would you say to the 25,000 listservians in a similar email blast</p>-----
 <p>What's your source code?</p>-----
@@ -59,7 +59,7 @@ Thats what I want the most. Thats what I want from International Sharing Group a
 <p>Do you censor any of the submissions? Some people are far worse than the worst of the Listserve emails so far, but it's a big black box up there in Olympus, so I wouldn't be any wiser if you did.</p>-----
 <p>nan</p>-----
 <p>how do we get to 1 million people</p>-----
-<p>If they could forward me the one listserv that was the very oddly written story about the island. It's been my favorite since I had joined but it was accidentally purged from my email.</p>-----
+<p>If they could forward me the one listserv that was the very oddly written story about the island. It's been my favorite since I had joined but it was accidentally purged from my email. </p>-----
 <p>What posts get the most resposnes</p>-----
 <p>What's up?</p>-----
 <p>Can you think of a way to use the Listserve to motivate people to do good?</p>-----
@@ -68,7 +68,7 @@ Thats what I want the most. Thats what I want from International Sharing Group a
 <p>What is your biggest dream for this project? What would feel impossible to create next?</p>-----
 <p>could it exist without language, an emote version for worldwide consumption?</p>-----
 <p>what are the 10 best posts that ever were on the Listserv and how can I find other things written by those people.</p>-----
-<p>What is the average open rate of emails and what influences it?  Can split test.</p>-----
+<p>What is the average open rate of emails and what influences it?  Can split test. </p>-----
 <p>Who's responsible?</p>-----
 <p>i'd like to see a map showing of the number of people from each location and maybe some demographics of age/sex of all the members</p>-----
 <p>how will you know when this project is finished?</p>-----
@@ -78,9 +78,9 @@ Thats what I want the most. Thats what I want from International Sharing Group a
 <p>Improve the concept to help the world.. (Communication is the key)</p>-----
 <p>What is the grand plan, or first up - is there a grand plan that could underpin the contribution (probably answer - No it is about people sharing what is important and relevant to them at the time of getting the lottery email - so what design needs to go into that?)</p>-----
 <p>Why isn't the list growing?  It has hovered around 25K since I joined many years ago.</p>-----
-<p>Why did you come up with this listserve? Do you do any kind of marketing or communication of the listserve to attract more followers?</p>-----
+<p>Why did you come up with this listserve? Do you do any kind of marketing or communication of the listserve to attract more followers? </p>-----
 <p>What was your goal when you began this project?</p>-----
-<p>How many people do I know on the listserve?</p>-----
+<p>How many people do I know on the listserve? </p>-----
 <p>Which Listserve emails are the ones that the majority of people like/respond to/connect with the most?</p>-----
 <p>How can we create a global forum for idea sharing that truly influences and inspires a community every single day?</p>-----
 <p>Dear gods:
@@ -91,7 +91,7 @@ get to the interesting bits faster?
 Why not images?</p>-----
 <p><< can you give me inspiration when i get my winning ticket at listserve ?>></p>-----
 <p>How?</p>-----
-<p>Why has the number of subscribers not changed in like two years? is 23k the magic number? How do we get a wider (and more diverse) audience? Do we even want more subscribers?</p>-----
+<p>Why has the number of subscribers not changed in like two years? is 23k the magic number? How do we get a wider (and more diverse) audience? Do we even want more subscribers? </p>-----
 <p>I think I got "the e-mail" a long long time ago but might have deleted it without checking carefully.  I wish I could know if I was ever chosen.</p>-----
 <p>nan</p>-----
 <p>I can't think of anything at the moment... final exams are melting my brain</p>-----
@@ -110,15 +110,15 @@ Why not images?</p>-----
 <p>How can the break through and get exponential growth in the registered recipients</p>-----
 <p>I would want stats. What percentage of people respond to their winner emails? All the stats they have, I would want.</p>-----
 <p>I deal in reality - no gods.</p>-----
-<p>How can I engage the Listserve audience? What story of myself should i tell them that will have an affect?</p>-----
+<p>How can I engage the Listserve audience? What story of myself should i tell them that will have an affect? </p>-----
 <p>Runing the Listserve for years, is there anything about it that you would like to tweak? (And why has it never really changed?)</p>-----
-<p>What's the average #days that a person is subscribed? 25th and 75th percentiles? Churn rate?</p>-----
+<p>What's the average #days that a person is subscribed? 25th and 75th percentiles? Churn rate? </p>-----
 <p>Is it past the point of no return for Us regardless of rather or not We correct the broken make believe games We play politically and socially speaking or is effort in that arena still capable of constructive gains going forward?</p>-----
-<p>What's the most shocking Listserve you've received that wasn't published? What's the most shocking submission that was published?</p>-----
+<p>What's the most shocking Listserve you've received that wasn't published? What's the most shocking submission that was published? </p>-----
 <p>What could we make happen if we harnessed the power of all these curious strangers?</p>-----
 <p>How has the quality of listserve posts been affected by its growth?</p>-----
 <p>What, if anything has the listserve done to make people's lives better or to alleviate suffering? Has there been any significant impact? If not, why not. Aside from creating a platform for lottery style mass communication could there be some other objective? I guess this is party the domain of this project...</p>-----
-<p>Recipe ideas. I'm sure we could crowdsource some wicked casseroles.</p>-----
+<p>Recipe ideas. I'm sure we could crowdsource some wicked casseroles. </p>-----
 <p>Hmmmmmmmm good question.</p>-----
 <p>Again, why don't you ever choose me?</p>-----
 <p>I don't think I would ask because I would rather learn what happens and what if any effect we have as and when it happens.</p>-----
@@ -128,11 +128,11 @@ Why not images?</p>-----
 
 (I swear, I'm not mean or misanthropic. But a project like this demands honesty, and in this case, I don't see how my opinion might hurt anyone's feelings. I'll retract if I have misunderstood the format and my remarks might cause someone hurt.)</p>-----
 <p>What is your reason for existing?</p>-----
-<p>What was the initial idea/goal when Listserve was created and have you reached it? Did it transform by now?</p>-----
+<p>What was the initial idea/goal when Listserve was created and have you reached it? Did it transform by now? </p>-----
 <p>nan</p>-----
 <p>nan</p>-----
 <p>What are you trying to facilitate with the Listserve?</p>-----
-<p>Are you still enjoying what you do?</p>-----
+<p>Are you still enjoying what you do? </p>-----
 <p>Prior to launching the Listserve, what was your short-, medium-, and long-term vision for it?</p>-----
 <p>Who are you (beyond demographics)? What made you who you are today? What's your purpose in life? What are you most afraid of? What are you dreaming about?</p>-----
 <p>How does each person respond emotionally to the daily emails?</p>-----
@@ -140,3 +140,8 @@ Why not images?</p>-----
 <p>Do you track open rates based on subject lines? What did you find?</p>-----
 <p>What are the major trends you have you observed from the listserve people?</p>-----
 <p>When will I be chosen???</p>-----
+<p>What changed in your life after you started listserve.</p>-----
+<p>Why do bad messages happen to good people?</p>-----
+<p>Why don't you allow links? Seriously, allow links. People can choose not to click on them if they want. Jeez.</p>-----
+<p>Who are the Listservians most like me.</p>-----
+<p>Gods of the listserve - How can I relate art to these people in a way that they want to bring it into their homes? </p>-----

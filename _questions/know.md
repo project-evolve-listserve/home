@@ -171,3 +171,11 @@ I also worked at the Bill & Melinda Gates Foundation for 5 years before returnin
 <p>Social Media Strategy
 London</p>-----
 <p>I know about non-profit work and serving communities who don't always have opportunities available to live a decent and happy life.</p>-----
+<p>Music- specifically, the art of composition, the art of playing percussion [more specifically, marimba], the art of teaching marching bands and drum corps, and arranging for front ensembles.</p>-----
+<p>IT and software engineering, economy</p>-----
+<p>Teaching English as a foreign language.Making do in new countries, researching, getting acclimated. Framing compelling stories. </p>-----
+<p>How to use the English language effectively.</p>-----
+<p>Infographic design
+UX design
+Problem solving</p>-----
+<p>I know the most about form and western traditional drawing and sculpting techniques.</p>-----
