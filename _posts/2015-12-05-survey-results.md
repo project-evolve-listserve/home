@@ -29,9 +29,9 @@ If you’re eager to learn more about design thinking, here are a few good resou
 [fastco]: http://goo.gl/DQySnq
 
 
-[responders]: /home/responders/all
+[responders]: /responders/all
 
-[questions]: /home/questions/all
+[questions]: /questions/all
 
 ### Demographics
 

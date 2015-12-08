@@ -6,11 +6,11 @@ permalink:           pretty
 # Setup
 title:               ProjectEvolve 
 tagline:             The Listserve
-url:                 project-evolve-listserve.github.io/home
+url:                 project-evolve-listserve.github.io/
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
-baseurl:             "/home"
+baseurl:             ""
 
 # Assets
 #
