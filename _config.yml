@@ -36,3 +36,7 @@ collections:
     output: true
   responders:
     output: true
+
+
+pages_list:       
+  History: '/history'
