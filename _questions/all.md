@@ -18,9 +18,9 @@ comments: True
 [If there were Listserve 'Gods' and you could ask them a question, what would it be?][anyq] 
 
 
-[freetime]: /questions/free_time
-[know]: /questions/know
-[like]: /questions/like
-[dislike]: /questions/dislike
-[anyq]: /questions/anyq
-[interest]: /questions/interest
+[freetime]: /home/questions/free_time
+[know]: /home/questions/know
+[like]: /home/questions/like
+[dislike]: /home/questions/dislike
+[anyq]: /home/questions/anyq
+[interest]: /home/questions/interest
