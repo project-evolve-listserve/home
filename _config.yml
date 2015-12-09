@@ -10,7 +10,7 @@ url:                 "http://project-evolve-listserve.github.io/home"
 gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
-baseurl:             ""
+baseurl:             "/home"
 
 # Assets
 #
