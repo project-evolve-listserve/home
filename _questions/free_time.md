@@ -6,6 +6,9 @@ categories: post
 comments: True
 ---
 -----
+<p>I read. I have knowledge FOMO (fear of missing out) and want to spend my time processing as much information as possible. 
+
+I also like to hike and climb mountains, I don't know what it is about getting to the top of a mountain or killer view - but it's very satisfying. </p> -----
 <p>I read, listen to music, make sushi, study Japanese, and use Reddit</p> -----
 <p>Dance, photography, play with technology, and be a policy nerd. </p> -----
 <p>Read and draw.</p> -----
@@ -42,9 +45,6 @@ Watching netfix</p> -----
 <p>study systems thinking, organisational leadership, commissioning, post things on model.report, walking in the country</p> -----
 <p>Reading about all kinds of stuff (mostly life advice/hacks and tech products), play soccer, cycle, workout, learn new languages, watch QI (BBC).</p> -----
 <p>nan</p> -----
-<p>I read. I have knowledge FOMO (fear of missing out) and want to spend my time processing as much information as possible. 
-
-I also like to hike and climb mountains, I don't know what it is about getting to the top of a mountain or killer view - but it's very satisfying. </p> -----
 <p>What is this "free time" you speak of?
 
 With Day Job and Parenting routines dominating my day from 6:30a until 10p, my remaining non-sleeping hours are a 4a-6:30a block. I use that to work on one of my side projects (now-abandoned dissertation, building a mentoring-learning application, game design, writing). Listserve Design Thinking will likely be slotted atop that list.</p> -----
@@ -190,3 +190,10 @@ Miniature origami
 Meeting new people
 Learning new things</p> -----
 <p>I am a sculptor. I like to sculpt the human figure in clay and I like to draw. I like to read philosophy and I like to play soccer.</p> -----
+<p>powerlifting, cycling, boozing, football</p> -----
+<p>Currently a grad student so not a ton of free time but currently love rock climbing, enjoy some video games, and lots of socializing around food</p> -----
+<p>Hang with my family (wife, daughter), cook, try new restaurants, see music, museums.</p> -----
+<p>Write a novel, read about non-fiction topics I'm researching at the moment, journaling, self-hypnosis, exercise while listening to a fiction audiobook, letter writing, watch Korean drama shows online, talk (long conversations) with friends, crafts (especially sewing, scrapbooks, paper crafts).</p> -----
+<p>Yoga, photography, reading, cooking</p> -----
+<p>I enjoy gaming in my PC, learning programming, playing guitar, inline skating and yoga</p> -----
+<p>Read (especially mysteries), contra dance (fiddle, dance), hiking, bicycling, nudging the world towards frugality, beauty, and peace.</p> -----

@@ -6,6 +6,7 @@ categories: post
 comments: True
 ---
 -----
+<p>Why hasn't growth been sustained? Is it something people don't like about it? Why do people unsubscribe?</p>-----
 <p>How do we get more people involved and excited about Listserve? How do we promote creative daily emails?</p>-----
 <p>How are people chosen to 'win' the Listserve?</p>-----
 <p>25,000 people doing one thing can have a significant value to a cause. </p>-----
@@ -30,7 +31,6 @@ Why do you think Listserve found a natural level of a little over 20,000 people 
 <p>which emails get the biggest response?</p>-----
 <p>How many active people (who read every email) are there on the Listserve?</p>-----
 <p>How do you feel about how it's turned out?</p>-----
-<p>Why hasn't growth been sustained? Is it something people don't like about it? Why do people unsubscribe?</p>-----
 <p>Is there an end?</p>-----
 <p>How does the random selection work? Is it an algorithm that can be changed? 
 Do you have an interest to actively expand abroad? </p>-----
@@ -145,3 +145,10 @@ Why not images?</p>-----
 <p>Why don't you allow links? Seriously, allow links. People can choose not to click on them if they want. Jeez.</p>-----
 <p>Who are the Listservians most like me.</p>-----
 <p>Gods of the listserve - How can I relate art to these people in a way that they want to bring it into their homes? </p>-----
+<p>Which story caused people to react the most? why? </p>-----
+<p>What's your favorite post? Which post has surprised you beyond what you'd expect this would draw out? Do you wish you'd done anything differently?</p>-----
+<p>Will I actually write something if I win?</p>-----
+<p>None</p>-----
+<p>What is the data?? How far in advance do people get selected, how many people decline, what are the 'specs' on posts, what ends up actually get sent out, are there censors, do authors get responses? i've written back to people who asked for connection and gotten nothing.......... is that because most people get 1500 responses? or because something about me?</p>-----
+<p>Is there anything I could write about that would be useful/interesting to all the people reading?</p>-----
+<p>How did participants gather and can we expand ?</p>-----

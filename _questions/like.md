@@ -7,6 +7,11 @@ comments: True
 ---
 
 -----
+<p>I like seeing people experiment with the Listserve. Perhaps more than that, I like the community that makes-up the Listserve, but I don't know much about it unfortunately. 
+
+I only get to see a snapshot of a fraction of the community once a day. Maybe if there were a way for the listserve as a community to better communicate amongst itself. This is not to suggest we should make a sub-reddit or something like that, because that would disrupt the elegant design of the 1 email/day for the listserve, which I quite like. 
+
+I like ideas, the ones that make you think... like 'hello prompt' I guess. </p>-----
 <p>I like the potential Listserve has to spread ideas and connect people.</p>-----
 <p>I love the potential. One day I might open my email and find the perfect opportunity. Or an idea I've never thought of. A book or movie suggestion. A project I should be involved with. Someone I should connect to. The potential is exciting. </p>-----
 <p>People giving a part of their lives a shape that can be shared with others.</p>-----
@@ -33,11 +38,6 @@ Another about getting tested for cancer by the friend of a survivor</p>-----
 <p>breaking out of the echo chamber (a bit), earnestness, whimsy</p>-----
 <p>It's a moment to breathe during the day, and dream away about the lives of others on this planet we share. Apart from the music & book recommendations (which I personally really love) I get a small moment of escape during my day, grounding me and appreciating the life I live and share with others.</p>-----
 <p>serendipity</p>-----
-<p>I like seeing people experiment with the Listserve. Perhaps more than that, I like the community that makes-up the Listserve, but I don't know much about it unfortunately. 
-
-I only get to see a snapshot of a fraction of the community once a day. Maybe if there were a way for the listserve as a community to better communicate amongst itself. This is not to suggest we should make a sub-reddit or something like that, because that would disrupt the elegant design of the 1 email/day for the listserve, which I quite like. 
-
-I like ideas, the ones that make you think... like 'hello prompt' I guess. </p>-----
 <p>I like to look for the patterns of communication and themes that connect diverse people. While many messages can become TL/DR, I do enoy the gestalt of all of them.</p>-----
 <p>I like how you can have that feeling of wonder reading someone articulating the way they think, the things that make people happy, sad. How human it makes me feel, how I can find pieces of myself in the middle of someone's story, how different some people are from me and from what I know. And I love to learn...a new song, a new book or just a new way of seeing something.</p>-----
 <p>I like how it gives you a chance to meet people from all over the world. You never know who you might connect with and what that might lead to. Being early in my career, I like to read other people's perspectives and journeys.</p>-----
@@ -158,3 +158,11 @@ And currently, I'm horribly trapped in my everyday life without good community. 
 <p>Diversity of people 
 Variety and randomness of topic/ideas/information</p>-----
 <p>I like the idea of communicating with a large group of people. </p>-----
+<p>Easier than reading a new book every day. Still getting some fresh perspective. Pushed not pulled</p>-----
+<p>Love the excitement of getting a cool tidbit from someone in the world. The randomness definitely adds to this. I love when I hear from someone that's very different from me or someone tells me something actually interesting that I might not run into otherwise</p>-----
+<p>I like good posts that share an interesting story or view or are just well written. I also like the interactive projects.</p>-----
+<p>Communicating through writing is a very natural tendency for me, so I appreciate having the opportunity to connect with members of the world that are communicating through my favourite medium. I like how it gives each person the opportunity for self-reflection and to consider their value in the context of a 25,000 member audience. It is really neat and profound to be given a voice and be assured you will be heard.</p>-----
+<p>Never know what you're going to get. </p>-----
+<p>The little stories some people share is what comes to mind. Looking back at some of the emails that I've archived, the 2 common themes I find are: emails from people with whom I can relate and emails from people whose lifes/choices/attitudes I wish I had.
+Oh, and there're lots of life advice in there :)</p>-----
+<p>Thoughts expressed in paragraphs, honesty</p>-----

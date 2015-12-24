@@ -6,6 +6,7 @@ categories: post
 comments: True
 ---
 -----
+<p>I like it's potential to create something cool. I also like that the project has the ability to bring similar interesting people together. Aaaand I like how the project is a mechanism for learning about design thinking. </p>-----
 <p>I enjoy fostering connection and community with others.</p>-----
 <p>The listserve is an opportunity to have global reach, and to be reached globally. I think there's great potential for this, and there's an opportunity to help it reach it's height!</p>-----
 <p>I have often learned more from strangers.</p>-----
@@ -36,7 +37,6 @@ Man, I miss Andrew Sullivan's Dish blog. It was damn near the only thing on the 
 <p>what can a group of people with very very loose connections achieve?</p>-----
 <p>It's a whole new level of creativity, working in such a group of kinda like-minded people, who found eachother rather serendipidously but can create a wonderful project together.</p>-----
 <p>because it might be interesting</p>-----
-<p>I like it's potential to create something cool. I also like that the project has the ability to bring similar interesting people together. Aaaand I like how the project is a mechanism for learning about design thinking. </p>-----
 <p>I like design discussions centered around improving community and connection. We'll see where this goes, but I am expecting good conversation.</p>-----
 <p>I'm currently finishing my post grad study in interaction design. We use design thinking for most of our projects and listserver is such a good and simple idea, I would love to see the kind of experience we can create together.</p>-----
 <p>I'm not sure where it could lead, but trying something new and potentially being a part of building something great sounds exciting. </p>-----
@@ -165,3 +165,10 @@ I think there is a way to incorporate some components of 100 strangers into the 
 <p>I still think the Listserve has potential to effectively rally, instruct, edify, inspire, etc. - especially if we can do something to address this problem of Listserve posts never really speaking to each other across time.</p>-----
 <p>I see the Listserve audience as a group of people with a generally positive outlook on life wanting to contribute and make a difference to the world. It would be good to make something more of our collective talent, ideas and resources.</p>-----
 <p>I'm interested in design thinking. I am interested in communicating and generating change. </p>-----
+<p>It'll be nice to work outside of work. Interesting project, self nominated team, etc... could be fun. </p>-----
+<p>Because I want to try something different! </p>-----
+<p>I like the interactive posts.</p>-----
+<p>You (the person who created this opportunity to strategize and further develop off the Listserve concept) wrote very compellingly about ways to look more meaningfully at Listserve. Since the Listserve is already a place where people are reflecting and making a lot of meaning it is fascinating to take it further and make more meaning out of the ways that people are already being so purposeful. I don't have any particular ideas, but I'm very interested to see how this will manifest itself and I'm keen on participating.</p>-----
+<p>To see what will happen.</p>-----
+<p>Mostly because it makes me uncomfortable. It entails working remotely with people I never met on a cool subject I don't know much about.</p>-----
+<p>Still hoping to encourage involvement ( not cynicism)  and to be encouraged in my individuality</p>-----

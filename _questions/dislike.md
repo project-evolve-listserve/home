@@ -6,6 +6,8 @@ categories: post
 comments: True
 ---
 -----
+<p>Well... I definitely don't read all of them. I don't really care for poetry, banana bread recipes, and I'm quite content with my music tastes. I also don't really like messages from people that try to give me life advice or hearing about people personal agendas. 
+</p>-----
 <p>I don't know if Listserve connects people as well as I would like it to.</p>-----
 <p>So many of the posts are about unsolicited life advice. I want to know ABOUT things instead.</p>-----
 <p>Restrictions on links isolates the listserv from a greater context and presence to search engines.</p>-----
@@ -36,8 +38,6 @@ I also feel that most of the emails are preachy and say the same thing, more or 
 <p>not much - it's easy enough to not read!</p>-----
 <p>That I didn't win yet!</p>-----
 <p>self-serving posts</p>-----
-<p>Well... I definitely don't read all of them. I don't really care for poetry, banana bread recipes, and I'm quite content with my music tastes. I also don't really like messages from people that try to give me life advice or hearing about people personal agendas. 
-</p>-----
 <p>I live in constant anxiety, having never seen the "You have won the lottery" email, that I missed my chance to post something as my invitation to do so went to the spam folder at some point.
 
 I'm a believer in the value of constraint. Twitter works well because of the forced brevity. 140 characters is too short for email, but I wonder what would happen to writing and reading if there was a max of 200 words. Most people seem to stay under 500 or so.</p>-----
@@ -168,3 +168,10 @@ Maybe this makes me a bad person, but I am always more interested in the way peo
 <p>TONS of trite, saccharine emails that add absolutely nothing to my life. I'm seriously on the verge of unsubscribing. I'd rather get a really specific, vivid, personal email that's totally irrelevant to my interests than get a "God is great and your life matters" email ANY day.</p>-----
 <p>Nothing really, it serves its purpose. </p>-----
 <p>I don't like that most of the emails are so personal. </p>-----
+<p>pretty much everything besides the content.</p>-----
+<p>I really dislike the angsty, formulaic descriptions of young folk "unsure of what they want". It's a boring problem that everyone goes through and it's terribly unoriginal. Your struggle has something unique. Bring it up. I also dislike that people haven't thought beyond the basic use of the Listserve. So many cool things could be tried! Most aren't ready</p>-----
+<p>Preachy posts.</p>-----
+<p>I don't like the people feel somewhat bound by a particular format (many emails look and feel and read the same). I also don't like that people tend to make somewhat pithy or trite remarks, but it is also an interesting result of the forum and has its own value. </p>-----
+<p>nothing? Maybe average age of posters is pretty young? i want to know how many people are selected and decline to write.</p>-----
+<p>Life advice that I do not agree with.</p>-----
+<p>So many wandering young people, </p>-----

@@ -6,6 +6,7 @@ categories: post
 comments: True
 ---
 -----
+<p>I understand a lot about how psychology effects design, good and bad. </p>-----
 <p>I know a lot about Japan and sociology. I also know a lot about determination.</p>-----
 <p>wonder</p>-----
 <p>Minimalist Art
@@ -37,7 +38,6 @@ OK and Adobe Creative Cloud apps, InDesign, Photoshop, Illustrator.</p>-----
 </p>-----
 <p>Startups, lean startups, Ruby on Rails</p>-----
 <p>Social Network Analysis, Programming, Network Science, Human behavior online</p>-----
-<p>I understand a lot about how psychology effects design, good and bad. </p>-----
 <p>I'm a human-computer interaction designer who does a lot of writing. I have also played fantasy sports since 1985. My dissertation, back when I was actually pursuing a PhD, focused on the design of online political forum to facilitate more participation by women. </p>-----
 <p>Digital products development
 Product management 
@@ -179,3 +179,12 @@ London</p>-----
 UX design
 Problem solving</p>-----
 <p>I know the most about form and western traditional drawing and sculpting techniques.</p>-----
+<p>in the world? 
+
+Probably football or cognitive science. </p>-----
+<p>I'd say my strongest skill is design thinking but I have a lot of knowledge of programming, especially iOS development. Don't if I "know the most" about anything</p>-----
+<p>Software sales, Judaism</p>-----
+<p>Museums (my M.Sc. is in Museum studies), metaphor and meaning-making, psychotherapy (having been through psychotherapy for years), anxiety disorders, living abroad, English, French and a bit of German, Canadian literature, a fairly wide scope of English literature, journaling, religions, piano.</p>-----
+<p>Cooking?</p>-----
+<p>I'll say programming and data analysis, even though I'm still very novice in both subjects.</p>-----
+<p>Teaching and learning, Alaska, Native American history, genealogy, storytelling,</p>-----
